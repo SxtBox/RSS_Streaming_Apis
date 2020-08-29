@@ -19,7 +19,7 @@ This Structure Convert 95% OF RSS/ATOM/XML DATAS In Kodi And Smart TV Code
     | [Radio Record]                                                                                                          |
     | https://paidcodes.albdroid.al/RSS_Builder_Apis/PRO/M3U_Builder/?url=http://www.radiorecord.ru/rss.xml                   |
     |-------------------------------------------------------------------------------------------------------------------------|
-    | [Protocol Radio]                                                                                                        |
+    | [Protocol Radio] ERROR IN THIS STRUCTURE, ONCE WORKS AND ONCE API RETURN TO 404.                                        |
     | https://paidcodes.albdroid.al/RSS_Builder_Apis/PRO/M3U_Builder/?url=http://podcasts.protocol-radio.com/PRRADIO.xml      |
     *-------------------------------------------------------------------------------------------------------------------------*
     *-------------------------------------------------------------------------------------------------------------------------*
